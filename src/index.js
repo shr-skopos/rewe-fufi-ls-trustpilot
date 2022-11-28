@@ -1,3 +1,1 @@
-import trustpilotConnect from "./trustpilotConect.js";
-
-window.trustpilotConnect = trustpilotConnect;
+const trustpilotConnect = require("./trustpilotConnect.js");
