@@ -1,30 +1,28 @@
-<h1>Rewe FuFi LS | Verknüpfung Trustpilot</h1>
+# Rewe FuFi LS |  Rewe FuFi AB - Verknüpfung Trustpilot
 
-<p>link to trustpilot npm :
-<a>https://www.npmjs.com/package/trustpilot/v/1.1.0</a>
-</p>
+### Remarks :
+- Rewe FuFi is a survey for reactions and ratings from customers. With this you can express your opinion there and also rate us through trustPilot
+
+[Project link Fulfillment Abholservice:](https://rewegroup.eu.qualtrics.com/survey-builder/SV_78VvVVHygoNJmwR/edit)
+
+[Project link Fulfillment Lieferservice:](https://rewegroup.eu.qualtrics.com/survey-builder/SV_5punoIkqLyYIzTT/edit)
+
+[Information:](https:/support.trustpilot.com/hc/de/articles/115004145087--Business-Generated-Links-for-developers-__;!!LmobyQ!oPez_ntOQfm7GkY7cgmHaFM6S6nfHkbI1MAiwjEEfkNNtmZ8CYPQc24GGTgf2q-KsxV8xfvZr8L1l5SzxF4F$)
 
 
-<p>This a node API wrapper for accessing the Trustpilot APIs. You can learn all about the Trustpilot API at:
-<a>https://developers.trustpilot.com/</a>
-</p>
+![Abholservice](./src/images/readme-AB.PNG)
+![Lieferservice](./src/images/readme-LS.PNG)
 
-<p>Node.js v19.1.0 documentation:
-<a>https://nodejs.org/api/crypto.html</a>
-</p>
 
-<p>This is a repository with sample code how to generate Trustpilot link in NodeJS:
-<a>https://github.com/trustpilot/business-generated-links-example-nodejs</a>
+## **Install :**
 
-<ul>
-<li>Install crypto: npm i crypto-js :
-<a>https://www.npmjs.com/package/crypto-js</a>
-</li>
+- [npm install --save-dev webpack:](https://webpack.js.org/guides/installation/)
+- [npm i less:](https://www.npmjs.com/package/less)
+- [npm i less-loader:](https://www.npmjs.com/package/less-loader)
+- [npm i nodemon:](https://www.npmjs.com/package/nodemon)
+- [npm i webpack-cli:](https://www.npmjs.com/package/webpack-cli)
 
-<li>Install Buffer: npm i Buffer :
-<a>https://www.npmjs.com/package/Buffer</a>
-</li>
+## **Start:**
+- npm run start
 
-</ul>
 
-</p>
